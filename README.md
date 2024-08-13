@@ -59,6 +59,11 @@ Measured the CPU and wall time for each image generation process, providing insi
 
 
 
+
+
+
+
+
 **Text-to-Image Generation: A Brief Overview
 **
 Text-to-image generation is an advanced application of neural networks, particularly transformer models like DALL·E, which are trained on vast datasets of images and corresponding text descriptions. The model learns to understand and synthesize the visual elements that correspond to the semantic content of the text.
